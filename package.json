@@ -1,0 +1,20 @@
+{
+  "name": "travis_ci",
+  "version": "1.0.0",
+  "description": "This is a very simple, bare-bones NodeJS project created for you to use with Docker.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debola-is/monolith-to-microservices-refactoring-exercise-1.git#main"
+  },
+  "author": "Adebola Sanni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debola-is/monolith-to-microservices-refactoring-exercise-1/issues"
+  },
+  "homepage": "https://github.com/debola-is/monolith-to-microservices-refactoring-exercise-1/tree/main#readme"
+}
